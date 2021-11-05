@@ -28,4 +28,20 @@ public class WidgetFactory {
      Profit: $760.00
 
      */
+    public static void main(String[] args); {
+
+    int numWidgets = 100000;
+    int numDays = 24;
+    int costOfProduction = 95000;
+    int costOfWidgets = 50;
+    int theProfit = 950000000;
+
+      System.out.println(int theProfit / int costOfProduction + int numWidgets);
+
+    }
+    public static void main(String[] args) {
+
+     double expression1 = int costOfProduction * 10000 = int theProfit
+    }
+
 }
